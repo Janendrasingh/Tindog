@@ -31,18 +31,12 @@ It allows dogs (and their owners 😄) to connect, find matches, and explore pre
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/tindog.git
+   git clone (https://janendrasingh.github.io/Tindog/)
    ```
 
 2. Run the project:
 
    * Simply open `index.html` in your browser
-
----
-
-## 📸 Screenshots
-
-*(Add screenshots here for better presentation)*
 
 ---
 
