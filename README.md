@@ -31,7 +31,7 @@ It allows dogs (and their owners 😄) to connect, find matches, and explore pre
 1. Clone the repository:
 
    ```
-   git clone https://janendrasingh.github.io/Tindog/
+    https://janendrasingh.github.io/Tindog/
    ```
 
 2. Run the project:
